@@ -1,0 +1,56 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\kiyan\Desktop\Amin_sim\
+Output folder        = C:\Users\kiyan\Desktop\Amin_sim\Amin_sim
+
+	Parsing "C:\Users\kiyan\Desktop\Amin_sim\Amin_sim.sp"
+	Including "C:\Users\kiyan\Desktop\mosistsmc180.lib"
+
+Start of Amin_sim.sp
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+General options:
+        threads = 1
+
+Output options:
+          nomod = 1                      post = 2
+
+Probing options:
+         probev = 1
+
+ Device and node counts:
+              MOSFETs -      58
+    MOSFET geometries -       5
+           Capacitors -       3
+      Voltage sources -       5
+   Subckt Definitions -       5
+     Subckt Instances -      14
+     Unique Instances -       4
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      31
+       Boundary nodes -       6
+          Total nodes -      37
+
+	Opening simulation database "C:\Users\kiyan\Desktop\Amin_sim\Amin_sim.tsim"
+
+Measure information will be written to file "C:\Users\kiyan\Desktop\Amin_sim\Amin_sim\Amin_sim.measure"
+
+Measurement result summary
+   charge          = -599.3135f      
+   power           =   13.4846u      
+
+
+Setup                        0.03 seconds
+DC operating point           0.01 seconds
+Transient Analysis           1.18 seconds
+Output                       0.05 seconds
+Overhead                     0.53 seconds
+-----------------------------------------
+Total                        1.80 seconds
+
+Simulation completed
