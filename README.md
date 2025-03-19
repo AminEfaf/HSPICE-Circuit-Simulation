@@ -65,22 +65,11 @@ The comparator circuit:
 ### **Timing & Performance Metrics**  
 - **Rise Time (Tr)** and **Fall Time (Tf)** calculated for output transitions.  
 - **Propagation Delay**: PLHT (Low to High) and PHLT (High to Low).  
-- **Power Consumption**: Measured for dynamic and static operation.  
+- **Power Consumption**: Measured for dynamic and static operation.
+  ![Screenshot 2024-07-08 201639](https://github.com/user-attachments/assets/ebeebe98-e255-4c39-b160-28d2d561aa4b)
 
-### **Graphical Representation**  
-Waveforms are analyzed to verify:  
-- **Correct functionality of the comparator circuit.**  
-- **Performance impact of transistor sizing and design choices.**  
 
 ---
-
-## **Collaborators**  
-- **[Your Name]**  
-- **[Your Teammates' Names]**  
 
 ## **Feedback**  
-For any suggestions or questions, feel free to reach out!  
-
----
-
-Let me know if you need any changes! 🚀
+For any suggestions or questions, feel free to reach out.
